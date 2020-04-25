@@ -20,5 +20,32 @@
   - Extras:
     - Tech blog
     - Medium
-    
 - E se eu não tiver muita experiência, aplico ou não?
+
+## Aula 2
+
+- Importância de ser fullstack
+
+  - Plannings
+  - Interação com o time
+  - Programar de forma eficiente
+  - Contribuir no que for preciso
+  - Ser 100% responsável por uma feature
+
+- Importância de conhecer mais de um banco de dados
+
+  - Postgres
+  - MySQL
+  - DynamoDB
+  - MongoDB
+  - RethinkDB
+  - Firestore
+
+- Importância de ter colocado um projeto no ar, sozinho, do início ao fim
+
+  - Passar por todas as fases de um projeto
+  - Saber planejar um projeto
+  - Entender as etapas de um projeto
+  - Deploy de frontend, backend, banco de dados, cloud, ssl, dns, domínio, etc
+
+- A importância de ter um perfil atualizado no LinkedIn
