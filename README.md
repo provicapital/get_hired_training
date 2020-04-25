@@ -34,12 +34,13 @@
 
 - Importância de conhecer mais de um banco de dados
 
-  - Postgres
-  - MySQL
-  - DynamoDB
-  - MongoDB
-  - RethinkDB
-  - Firestore
+  - [Postgres](https://www.postgresql.org/)
+  - [MySQL](https://www.mysql.com/)
+  - [DynamoDB](https://aws.amazon.com/dynamodb/)
+  - [MongoDB](https://www.mongodb.com/cloud)
+  - [RethinkDB](https://rethinkdb.com/)
+  - [Firestore](https://firebase.google.com/docs/firestore)
+  - [Redis](https://redis.io/)
 
 - Importância de ter colocado um projeto no ar, sozinho, do início ao fim
 
