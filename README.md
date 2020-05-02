@@ -50,3 +50,31 @@
   - Deploy de frontend, backend, banco de dados, cloud, ssl, dns, domínio, etc
 
 - A importância de ter um perfil atualizado no LinkedIn
+
+## Aula 3
+
+- Data e Analytics no dia a dia de desenvolvimento - [Download](https://firebasestorage.googleapis.com/v0/b/provi-public/o/Analytics%20e%20Desenvolvimento.pdf?alt=media)
+- Interações com times de UX, Biz Dev e Produto
+  - @Lucas Dias - Head de Design @Provi
+  - @Anaíza Domingos - Key Account Manager @Provi
+  - @Leandro Barros - Head de Data @Provi
+- O que é importante além do conhecimento técnico
+  - Jogar para o time
+  - Comunicação clara (fala e escrita)
+  - Visão de negócio
+  - Falar inglês
+- Agile, SCRUM e metodologias de trabalho
+  - Daily
+  - Planning
+  - Demo
+  - Retro
+- Familiaridade com as ferramentas mais populares
+  - [Slack](https://slack.com/intl/en-br/)
+  - [Discord](https://discordapp.com/)
+  - [Microsoft Teams](https://teamsdemo.office.com/)
+  - [Trello](https://trello.com/)
+  - [GitHub](https://github.com/)
+  - [Asana](https://asana.com/)
+  - [Jira](https://www.atlassian.com/software/jira)
+  - [BitBucket](https://bitbucket.org/)
+  - [GitLab](https://about.gitlab.com/)
