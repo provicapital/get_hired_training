@@ -1,5 +1,9 @@
 # Resposta ao Álvaro
 
+#### [Perdeu as primeiras aulas? Nós gravamos tudo para você ❤️](https://www.youtube.com/playlist?list=PLE-tCpjugFWrwZ-heBh-NHVGim_2a_u1U)
+
+#### [Conteúdos das próximas aulas 🤓](https://firebasestorage.googleapis.com/v0/b/provi-public/o/Analytics%20e%20Desenvolvimento.pdf?alt=media&token=ba48d67e-a0aa-4c1f-ab73-fdb64970f488)
+
 ## Aula 1
 
 - Estratégias para aplicar para novas posições
