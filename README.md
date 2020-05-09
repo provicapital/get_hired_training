@@ -78,3 +78,22 @@
   - [Jira](https://www.atlassian.com/software/jira)
   - [BitBucket](https://bitbucket.org/)
   - [GitLab](https://about.gitlab.com/)
+
+## Aula 4
+
+- Se preparando para as entrevistas
+  - [LeetCode](https://leetcode.com/)
+  - [Codility](https://www.codility.com/)
+  - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+  - [CodeWars](https://www.codewars.com/)
+  - [Hackerrank](https://www.hackerrank.com/)
+  - Entenda linha a linha!
+- O que um empregador gostaria de ver
+  - Engajamento
+  - Team player
+  - Aprende rápido
+  - Orientado a longo prazo
+- Entre em menos processos seletivos, foque em qualidade da aplicação
+  - Procure referências
+  - Tenha paciência
+  - Entenda do negócio além da parte técnica
