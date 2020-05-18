@@ -101,3 +101,10 @@
   - Procure referências
   - Tenha paciência
   - Entenda do negócio além da parte técnica
+
+## Aula 5
+
+- Escolha bem sua indústria
+- Entenda as linguaguens da sua indústria
+- A importância de focar em poucas linguagens
+- Desenhando a sua carreia no mundo de tecnologia
