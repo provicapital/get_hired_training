@@ -145,3 +145,22 @@
         ](https://www.udemy.com/course/microservices-with-node-js-and-react/)
 
 - [Educação continua](https://www.freecodecamp.org/news/stack-overflow-developer-survey-2020-programming-language-framework-salary-data/#how-often-do-developers-learn-new-technologies)
+
+## Aula 7
+
+- O que é esperado de um dev, independente do nível
+  - Responsabilidade
+  - Qualidade
+  - Chegar melhor do que você saiu | estudo contínuo
+  - Não queria estar num nível diferente do seu
+  - Níveis são polêmicos
+- Diferença entre júnior, pleno e senior | Exemplos práticos
+  - Maneiras de buscar ajuda
+  - Simplificação das tasks | Cautela
+  - Organização
+  - Abstração
+  - Compreensão do todo
+  - Contempla cenário pessimista
+  - Tratativa de erro
+  - Código simples
+  - Tempo de experiência
