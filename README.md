@@ -164,3 +164,22 @@
   - Tratativa de erro
   - Código simples
   - Tempo de experiência
+  
+## Aula 8 😢
+  - Dúvidas, considerações, bate papo aberto e próximos passos
+  - Desafio! 🥋🥋🥋🥋
+    - Projeto completo:
+      - Ideias
+      - Tech stack | TO DOs:
+        - Site
+        - Front app
+        - Back | API
+        - Banco de dados | Database design
+        - Deploy | Launch
+        - Domínio, dns, SSL
+      - Considerações:
+        - Planejamento
+        - Indústria (produto + linguagens)
+        - Github
+        - LinkedIn
+
